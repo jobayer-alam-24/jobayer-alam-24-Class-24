@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    margin-top: 4%;
+}
+button{
+    border: none;
+    outline: none;
+    background-color: rgb(37, 37, 146);
+    color: white;
+    font-size: 1.2rem;
+    display: inline-block;
+    padding: 1% 2%;
+    margin: auto;
+    cursor: pointer;
+    opacity: 0.9;
+    transition: all 0.3s ease-in-out;
+    box-shadow: rgba(18, 31, 216, 0.24) 0px 3px 8px;
+}
+button:hover{
+    box-shadow: none;
+    opacity: 1;
+}
